@@ -14,6 +14,7 @@ public class HollowSquareStar {
             }
             System.out.println();
         }
+
     }
 }
 //output: *****
